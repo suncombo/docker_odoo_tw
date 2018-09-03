@@ -1,5 +1,4 @@
-FROM odoo:11.0
-MAINTAINER Mick Tseng <suncombo@gmail.com>
+FROM suncombo/odoo:11.0
 
 USER root
 
